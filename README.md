@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hg32j
-- 👀 I’m interested in ... python, excercise, machine learning 
+- 👀 I’m interested in ... python, excercise & nutrition, machine learning 
 - 🌱 I’m currently learning ... computer science on my own
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... andhugo@iu.edu
